@@ -1,6 +1,6 @@
 ---
 
-title: "The First Page"
+title: The-First-Page
 date: 2026-06-08
 
 >Somebody already has the surname!

@@ -3,6 +3,6 @@ title: Welcome 🥇
 
 ---
 ### Intended as a welcome page!!
-[fpage](firstpage)
+[fpage](/_posts/firstpage.md)
 
 

@@ -3,7 +3,5 @@ title: Welcome
 
 head: Just checking 
 
-body: 
-Is it working?
-:india:
+body: Is it working? :india:
 ---

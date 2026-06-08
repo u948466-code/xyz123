@@ -1,6 +1,6 @@
 ---
 title: Welcome 🥇
-title: first-page
+title: second-page
 ---
 ###Intended as a welcome page!!###
 

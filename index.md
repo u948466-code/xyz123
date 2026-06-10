@@ -1,10 +1,10 @@
 ---
 title: Welcome 🥇
 
-title: hello 
+title: cello
 
 ---
-### Intended as a welcome page!!
+## Intended as a welcome page!!
 [fpage](./_posts/2026-06-09-firstpage.md)
 
 

@@ -1,7 +1,7 @@
 ---
--title: Welcome 🥇
+title: Welcome 🥇
 
--title: hello 
+title: hello 
 
 ---
 ### Intended as a welcome page!!

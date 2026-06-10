@@ -2,7 +2,9 @@ theme: minima
 title: Welcome to The Office 
 description: Philosophy either, how long you might have to study for!
 author: uk
-nav_site: true
+site_nav: true
+order: 1
+
 
 
 minima:

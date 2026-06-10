@@ -6,5 +6,5 @@ author: uk
 
 minima:
   nav_pages:
-    - about.md
-    - index.md
+    - ./README.md
+    - ./index.md

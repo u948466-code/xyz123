@@ -1,6 +1,10 @@
 ---
-title: check
-url: ./README.md
+minima:
+  nav_pages:
+    - title: xyz
+      url: ./README.md
+    - title: abc
+      url: ./index.md
 
 ---
 ## Intended as a welcome page!!

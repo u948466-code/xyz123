@@ -7,7 +7,4 @@ order: 1
 
 
 
-minima:
-  nav_pages:
-    - ./README.md
-    - ./index.md
+

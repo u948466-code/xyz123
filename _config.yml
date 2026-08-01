@@ -1,11 +1,9 @@
 theme: minima
-minima:
-    skin: dark
+skin: dark
 title: Welcome to The Office 
 description: Philosophy either, how long you might have to study for!
-author: 
-    uk >-
-    udaykr119@gmail.com
+author: uk
+email: udaykr119@gmail.com
 site_nav: true
 order: 1
 

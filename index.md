@@ -1,5 +1,5 @@
 ---
-title: list
+title:
 ---
 
 Intended as a welcome page!!

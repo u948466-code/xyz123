@@ -10,6 +10,7 @@ date: 2026-06-09
     </ul>
 </nav>
 <img src="https://github.com/u948466-code/xyz123/blob/main/picture.jpg">
+<img src="https://github.com/u948466-code/xyz123/main/picture.jpg">
 
 ### Somebody already has the surname!
 ## So what anybody else either may have that surname!

@@ -9,7 +9,7 @@ date: 2026-06-09
         <li><a href="/README.md/">About</a></li>
     </ul>
 </nav>
-<img src="././picture.jpg">
+<img src="../picture.jpg">
 
 ### Somebody already has the surname!
 ### So what anybody else either may have that surname!

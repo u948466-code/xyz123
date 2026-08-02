@@ -2,6 +2,7 @@ theme: minima
 minima:
     nav_pages:
         -index.md
+        -README.md
         
         
 title: Welcome to The Office 

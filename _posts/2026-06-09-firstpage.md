@@ -5,7 +5,7 @@ date: 2026-06-09
 <div id="togglemenu">☰ Menu</div>
 <nav id="menu">
     <ul>
-        <li><a href="./">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li><a href="/README.md/">About</a></li>
     </ul>
 </nav>

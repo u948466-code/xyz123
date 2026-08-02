@@ -6,7 +6,7 @@ date: 2026-06-09
 <nav id="menu">
     <ul>
         <li><a href="./">Home</a></li>
-        <li><a href="./README.md/">About</a></li>
+        <li><a href="/README.md/">About</a></li>
     </ul>
 </nav>
 

@@ -2,9 +2,9 @@
 remote_theme: "jekyll/minima@1e8a445"
 theme: minima
 minima:
-    nav_pages:
-        -index.md
-        -README.md
+  nav_pages:
+    -index.md
+    -README.md
         
         
 title: Welcome to The Office 
